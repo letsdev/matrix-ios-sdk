@@ -14,7 +14,7 @@ abstract_target 'MatrixSDK' do
     pod 'OLMKit', '~> 3.2.5', :inhibit_warnings => true
     #pod 'OLMKit', :path => '../olm/OLMKit.podspec'
     
-    pod 'Realm', '10.27.0'
+    pod 'Realm', '10.44.0' # Realm-Version 10.32.3 is mentioned as Bug-Fix-Version 
     pod 'libbase58', '~> 0.1.4'
     pod 'MatrixSDKCrypto', "0.3.13", :inhibit_warnings => true
     
