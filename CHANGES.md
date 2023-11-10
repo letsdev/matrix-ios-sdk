@@ -1,3 +1,9 @@
+## Changes in release-0.27.3-realm-update (2023-11-10)
+
+🐛 Bugfixes
+
+- Upgrade Realm version to resolve Undefined Symbols Errors by Realm
+
 ## Changes in 0.27.3 (2023-10-04)
 
 🐛 Bugfixes
