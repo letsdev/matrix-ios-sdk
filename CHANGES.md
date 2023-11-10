@@ -1,3 +1,9 @@
+## Changes in matrix-ios-sdk_realm-fix_2023-11-10 (2023-11-10)
+
+🐛 Bugfixes
+
+- Upgrade Realm Version to 10.44.0
+
 ## Changes in 0.27.3 (2023-10-04)
 
 🐛 Bugfixes
